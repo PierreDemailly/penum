@@ -1,0 +1,21 @@
+{
+  "name": "@pierred/penum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PierreDemailly/penum.git"
+  },
+  "keywords": [],
+  "author": "PierreDemailly",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/clinjs/penum/issues"
+  },
+  "homepage": "https://github.com/clinjs/penum#readme"
+}
