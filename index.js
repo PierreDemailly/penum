@@ -25,4 +25,4 @@ export async function *enunerate(generator) {
   }
 }
 
-export { enumerate, asyncEnunerate };
+export { enumerate };
